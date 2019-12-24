@@ -34,7 +34,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 cc: by-nc-nd
 nb_posts_page: 0
 archive_permalink: "/archive"
-baseurl: "blakemas" # the subpath of your site, e.g. /blog
+baseurl: "/blakemas" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 

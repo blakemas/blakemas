@@ -7,14 +7,14 @@ layout: home
 # Blake Mason
 #### Hi! I'm Blake Mason, an Electrical and Computer Engineering PhD student at the [University of Wisconsin--Madison](https://wisc.edu){: style="color: blue; opacity: 0.80;" }
 
-{% include image.html src="/assets/headshot.png"
-                      caption="A typical Wisconsin winter"%}
+{% include image.html src="headshot.png"
+                      caption="A typical Wisconsin winter" %}
 
 I am currently a PhD student in [Robert Nowak's lab](https://nowak.ece.wisc.edu/){: style="color: blue; opacity: 0.80;" } the University of Wisconin--Madison. Before coming to Madison, I did my Bachelors in Electrical Engineering at the University of Southern California. Outside of my studies, I publish poetry, sing in the choir, and love to run! <br/>
 
 **Contact:** bmason3@wisc.edu <br/>
 [Wisconsin Institutes for Discovery](https://wid.wisc.edu/people/blake-mason/){: style="color: blue; opacity: 0.80;" }<br/>
-**[Curriculum Vitae (PDF)](/assets/mason_cv.pdf){: style="color: blue; opacity: 0.80;" }** <br/>
+**[Curriculum Vitae (PDF)](mason_cv.pdf){: style="color: blue; opacity: 0.80;" }** <br/>
 **[Google Scholar](https://scholar.google.com/citations?user=gLO_20kAAAAJ&hl=en&oi=ao){: style="color: blue; opacity: 0.80;" }**<br/>
 **[@github](https://github.com/blakemas){: style="color: blue; opacity: 0.80;" }**
 
