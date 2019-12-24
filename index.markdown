@@ -4,7 +4,8 @@
 
 layout: home
 ---
-# Blake Mason
+<!-- # Blake Mason -->
+
 #### Hi! I'm Blake Mason, an Electrical and Computer Engineering PhD student at the [University of Wisconsin--Madison](https://wisc.edu){: style="color: blue; opacity: 0.80;" }
 
 {% include image.html src="headshot.png"
@@ -29,7 +30,7 @@ from noisy pairwise comparisons, motivated by a collabortive project developing 
 I am also developing active methods for adaptive multiple testing and applying this to learning nearest neighbors and neighborhood graphs from noisy data. 
 My research has been applied to study chemistry education in large classrooms, fertility and miscarriage, and preference graph detection. <br/>
 
-## [Link to Projects and Publications](/publications){: style="color: blue; opacity: 0.80;" }<br/>
+## [Link to Projects and Publications](/blakemas/publications){: style="color: blue; opacity: 0.80;" }<br/>
 
 
 
